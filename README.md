@@ -6,20 +6,6 @@ This is just a beginner project for my training. This Python script prints out l
 
 The script defines a function `lyrics` that takes a line of text and a delay time as input. It prints each character of the line with the specified delay. The script then uses this function to print several lines of lyrics with different delays.
 
-## Prerequisites
-
-- Python 3.x
-
-## Usage
-
-1. Clone the repository or download the script.
-2. Navigate to the directory containing the script.
-3. Run the script using Python:
-
-    ```sh
-    python main.py
-    ```
-
 ## Code Explanation
 
 ```python
