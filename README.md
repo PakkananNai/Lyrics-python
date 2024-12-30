@@ -40,4 +40,8 @@ lyrics(l4, 0.06)  # Print l4 with 0.06 second delay between characters
 time.sleep(2.0)   # Wait for 2.0 seconds
 lyrics(l5, 0.1)   # Print l5 with 0.1 second delay between characters
 time.sleep(1.2)   # Wait for 1.2 seconds
+lyrics(l6, 0.12)  # Print l6 with 0.12 second delay between characters
+time.sleep(1.2)   # Wait for 1.2 seconds
+lyrics(l7, 0.15)  # Print l7 with 0.15 second delay between characters
+time.sleep(5.0)   # Wait for 5.0 seconds
 ```
